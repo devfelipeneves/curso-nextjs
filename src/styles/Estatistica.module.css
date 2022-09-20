@@ -9,15 +9,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 180px;
-    width: 180px;
-    border-radius: 90px;
-    font-size: 4rem;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    font-size: 3rem;
     font-weight: 500;
 }
 
 .texto {
     color: #ddd;
-    font-size: 1.7rem;
+    font-size: 1.2rem;
     font-weight: 200;
 }
