@@ -105,9 +105,9 @@ const questoes: QuestaoModel[] = [
         RespostaModel.errada('Os testes de sistema'),
     ]),
     new QuestaoModel(226, 'Quais são os níveis/fases de teste de software, em ordem?', [
-        RespostaModel.errada('Integração, Unidade, Sistema, Aceitação, Alfa, Beta'),
-        RespostaModel.errada('Unidade, Sistema, Aceitação, Integração, Alfa, Beta'),
-        RespostaModel.errada('Integração, Sistema, Unidade, Aceitação, Beta, Alfa'),
+        RespostaModel.errada('Integração, Unidade, Sistema, Aceitação, Alfa, Beta.'),
+        RespostaModel.errada('Unidade, Sistema, Aceitação, Integração, Alfa, Beta.'),
+        RespostaModel.errada('Integração, Sistema, Unidade, Aceitação, Beta, Alfa.'),
         RespostaModel.certa('Unidade, Integração, Sistema, Aceitação, Alfa, Beta.'),
     ]),
     new QuestaoModel(227, 'Quais são as etapas para a realização de teste de software?', [
