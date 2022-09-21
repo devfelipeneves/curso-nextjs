@@ -111,7 +111,7 @@ const questoes: QuestaoModel[] = [
         RespostaModel.certa('Unidade, Integração, Sistema, Aceitação, Alfa, Beta.'),
     ]),
     new QuestaoModel(227, 'Quais são as etapas para a realização de teste de software?', [
-        RespostaModel.errada('Planejamento, Cenário, Execução e Análise.'),
+        RespostaModel.errada('Planejamento, Cenário, Execução e Casos de Teste.'),
         RespostaModel.errada('Planejamento, Execução e Análise.'),
         RespostaModel.errada('Planejamento, Cenário, Execução e Análise.'),
         RespostaModel.certa('Planejamento, Cenário, Casos de Teste, Execução e Análise.'),
