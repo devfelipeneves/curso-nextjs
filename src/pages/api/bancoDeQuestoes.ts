@@ -120,7 +120,7 @@ const questoes: QuestaoModel[] = [
         RespostaModel.errada('Falso'),
         RespostaModel.certa('Verdadeiro'),
     ]),
-    new QuestaoModel(229, 'As chances do profissional testador encontrar problemas o software são maiores do que do programador.', [
+    new QuestaoModel(229, 'As chances do profissional testador encontrar problemas no software são maiores do que do programador.', [
         RespostaModel.errada('Falso'),
         RespostaModel.certa('Verdadeiro'),
     ]),
